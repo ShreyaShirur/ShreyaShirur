@@ -1,7 +1,7 @@
 ![MasterHead]
 
 <h1 align="center">Hi 👋, I'm Shreya Shirur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on ****Sqlite Based Android Application****
 
-- 🌱 I’m currently learning ****Flutter & Dart Programming****
+- 🌱 I’m currently learning ****JAVA PROGAMMING LANGUAGE****
 
 - 💬 Ask me about ****Android,Web-Apps,Java,Python****
 
-- 📫 How to reach me **shirurshreya@gmail.com**
+- 📫 How to reach me **shirurshreya4@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
