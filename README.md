@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ****JAVA PROGAMMING LANGUAGE****
 
-- 💬 Ask me about ****Android,Web-Apps,Java,Python****
+- 💬 Ask me about ****Java****
 
 - 📫 How to reach me **shirurshreya4@gmail.com**
 
