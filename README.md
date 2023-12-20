@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashirur&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashirur" /> </p>
 
-- 🔭 I’m currently working on ****Sqlite Based Android Application****
+- 🔭 I’m currently working on **** Android Application****
 
 - 🌱 I’m currently learning ****JAVA PROGAMMING LANGUAGE****
 
